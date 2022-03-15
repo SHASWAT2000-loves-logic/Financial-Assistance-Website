@@ -7,12 +7,20 @@ width less than 768px (basically tablets and smartphones).
 In order to enhance code reusablity, I created some classes that are used repeatedly and act like a framework. 
 
 The project has 3 HTML pages- 
+
 a. index.html - It is the home page, which the user first sees. It has all the sections of the website like about, contact info etc.  
+
 b. blog_homepage.html - Here we have the markup for the blog homepage, which is one of my inner page. The blog section on the home page leads us to this page. 
+
 c. post.html - Here we have the markup for a blog written by company's president. The post section on the blog homepage leads us to this page. 
 
+
 The project has 4 CSS files-
+
 a. home_style.css - It contains all the styling of the home page. 
+
 b. blog_style.css - It has all the styling for the blog homepage. 
+
 c. post_style.css - It has all the styling for the blog itself. 
+
 d. tablet.css - It is a media query and has styling for device width less than 768px. 
