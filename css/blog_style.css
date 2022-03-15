@@ -1,0 +1,36 @@
+
+/* Setting up a new background for the blog page */
+
+.blog_page{
+    background: url('../home/blog.jpg') no-repeat center center/cover;
+    height:45vh;
+}
+
+/* Styling the contents of each blog section */
+
+.blog_content_1, 
+.blog_content_2 a
+{
+    background-color: var(--white_background);
+    color:var(--light_black_background);
+}
+.blog_content_1 p{
+    font-weight: 500;
+}
+.blog_content_1 i, 
+.blog_content_2 i
+{
+    padding-right: 8px;
+}
+.blog_content_1 a, 
+.blog_content_2
+{
+    background-color: var(--light_black_background);
+}
+.blog_content_1 a:hover, 
+.blog_content_2 a:hover
+{
+    opacity: 0.9;
+}
+
+/* --------------------------------------------------------------------------------- */

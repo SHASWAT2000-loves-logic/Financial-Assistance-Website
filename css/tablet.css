@@ -1,0 +1,31 @@
+
+/* This is the styling when the screen width is less than or equal to 768px or the size of a tablet*/
+/* The screen width of a smartphone is usually 500px, so this styling covers the styling of smartphones too */
+
+.navbar{
+    flex-direction: column;
+    height:120px;
+    padding:15px;
+}
+.navbar ul li a{
+    padding:10px;
+    margin:0px 3px;
+}
+.tablet_styling{
+    flex-direction: column;
+}
+.first_equal_flex .about_img, 
+.first_equal_flex img, 
+.solutions_content, 
+.img_row_1 img, 
+.img_row_2 img,
+.second_equal_flex .blog_img,
+.blog_content
+{
+    width:100%;
+}
+.team_flex_row img{
+    width:70%;
+}  
+
+/* --------------------------------------------------------------------------------- */
