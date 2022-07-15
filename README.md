@@ -1,10 +1,11 @@
 # Financial-Assistance-Website
-**First Edit** (03/15/2022) - This is a website for a financial assistance company called EdgeLedger (a madeup name). In this website I have incorporated what I learned about CSS in the last few weeks, like 
-CSS Flexbox, CSS variables (or custom properties) and responsive media queries. I have used flexbox to align items instead of floats (as in my last project), and CSS variables to store various colors that have been used
-throughout the project. I have also added responsive media queries and the website looks good on devices that are found on Chrome tools. My media query is for devices with screen 
-width less than 768px (basically tablets and smartphones).  
+**First Edit** (03/15/2022) - 
 
-In order to enhance code reusablity, I created some classes that are used repeatedly and act like a framework. 
+**General description** - This is a website for a financial assistance company called EdgeLedger (a madeup name). In this website I have incorporated what I learned about CSS in the last few weeks, like CSS Flexbox, CSS variables (or custom properties) and responsive media queries.
+
+**Technology used** - HTML5 and CSS (with media queries)
+
+**Main CSS technology used** - Flexbox to align elements, CSS variables to reuse code, responsive media queries for screen size less than 768px (tablets and smartphones) 
 
 The project has 3 HTML pages- 
 
