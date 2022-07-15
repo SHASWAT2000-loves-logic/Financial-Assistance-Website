@@ -7,6 +7,8 @@
 
 **Main CSS technology used** - Flexbox to align elements, CSS variables to reuse code, responsive media queries for screen size less than 768px (tablets and smartphones) 
 
+**Website description** - 
+
 The project has 3 HTML pages- 
 
 a. index.html - It is the home page, which the user first sees. It has all the sections of the website like about, contact info etc.  
